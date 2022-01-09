@@ -2,7 +2,6 @@
 
 
 # I Use MDN Documentation in my project 
-================================================================
 https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
 
 
@@ -50,5 +49,4 @@ https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
 
 
 ## Technologies used to create the project: 
-================================================
 HTML, CSS(MediaQuery), Javscript(ECMA6)
