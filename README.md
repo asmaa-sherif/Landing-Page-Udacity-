@@ -1,7 +1,7 @@
 # Landing Page Project
 
 
-# I Use MDN Documentation in my project 
+## I Use MDN Documentation in my project 
 https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
 
 
